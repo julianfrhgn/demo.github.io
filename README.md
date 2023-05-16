@@ -11,6 +11,9 @@ especifico.
 • Para efectos de mantener la simplicidad del ejemplo no se contemplan manejar persistencia en el almacenamiento de los datos.
 • No se realiza validación, ni se verifica calidad en los datos ingresados.
 
+![image](https://github.com/julianfrhgn/demo.github.io/assets/132966493/2cee2a80-13bc-4336-a1c7-e0ebcec20c68)
+
+
 https://julianfrh.atlassian.net/browse/SUP-2?atlOrigin=eyJpIjoiNjgxY2FjNGMzYjc0NGRhOTlkZDk1YzFmNTQ2OTQxNzMiLCJwIjoiaiJ9
 
 ![image](https://github.com/julianfrhgn/demo.github.io/assets/132966493/716eecfa-ff68-4139-ad43-13c3296af91f)
