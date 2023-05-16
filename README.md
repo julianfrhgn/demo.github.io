@@ -6,7 +6,7 @@ En su labor como programador de software ha sido elegido para el desarrollo de u
 nombre y la marca. 
 
 Aclaraciones:
-- Se supondrá que la aplicación solo se requiere para calcular el promedio de un único periodo
+- Se supondrá que la aplicación solo se requiere para calcular el promedio de ventas de los tres meses
 especifico.
 - Para efectos de mantener la simplicidad del ejemplo no se contemplan manejar persistencia en el almacenamiento de los datos.
 - No se realiza validación, ni se verifica calidad en los datos ingresados.
