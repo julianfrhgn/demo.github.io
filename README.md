@@ -22,6 +22,10 @@ https://julianfrh.atlassian.net/browse/SUP-2?atlOrigin=eyJpIjoiNjgxY2FjNGMzYjc0N
 ![deb4cbdf-1e69-45d0-9852-5ebbfde9bbed](https://github.com/julianfrhgn/demo.github.io/assets/132966493/afc5f5e4-5f35-4926-b6de-36716f5a31a1)
 
 
+
+
+
+
 Importar clase Scanner
 
 Crear clase ventaPOO
