@@ -13,6 +13,12 @@ especifico.
 
 https://julianfrh.atlassian.net/browse/SUP-2?atlOrigin=eyJpIjoiNjgxY2FjNGMzYjc0NGRhOTlkZDk1YzFmNTQ2OTQxNzMiLCJwIjoiaiJ9
 
+![image](https://github.com/julianfrhgn/demo.github.io/assets/132966493/716eecfa-ff68-4139-ad43-13c3296af91f)
+
+
+![deb4cbdf-1e69-45d0-9852-5ebbfde9bbed](https://github.com/julianfrhgn/demo.github.io/assets/132966493/afc5f5e4-5f35-4926-b6de-36716f5a31a1)
+
+
 
 
 
