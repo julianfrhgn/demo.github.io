@@ -6,10 +6,10 @@ En su labor como programador de software ha sido elegido para el desarrollo de u
 nombre y la marca. 
 
 Aclaraciones:
-• Se supondrá que la aplicación solo se requiere para calcular el promedio de un único periodo
+- Se supondrá que la aplicación solo se requiere para calcular el promedio de un único periodo
 especifico.
-• Para efectos de mantener la simplicidad del ejemplo no se contemplan manejar persistencia en el almacenamiento de los datos.
-• No se realiza validación, ni se verifica calidad en los datos ingresados.
+- Para efectos de mantener la simplicidad del ejemplo no se contemplan manejar persistencia en el almacenamiento de los datos.
+- No se realiza validación, ni se verifica calidad en los datos ingresados.
 
 ![image](https://github.com/julianfrhgn/demo.github.io/assets/132966493/2cee2a80-13bc-4336-a1c7-e0ebcec20c68)
 
